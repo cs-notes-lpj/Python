@@ -27,7 +27,7 @@ print(-7 // 2)
 
 > 注意：
 >
-> 1. 取模运算和取余运算易混淆，具体请参考[这里](https://en.wikipedia.org/wiki/Modulo_operation)和[这里](https://liupj.top/2022/04/20/C/Modulo_operation/)
+> 1. 取模运算和取余运算易混淆，具体请参考[这里](https://en.wikipedia.org/wiki/Modulo_operation)和[这里](https://liupj.top/2022/04/20/knowledge/C/Modulo_operation/)
 >
 > 2. ^ 并不执行取幂运算，它属于更复杂的按位运算符，更多信息请参考[这里](https://wiki.python.org/moin/BitwiseOperators)
 
