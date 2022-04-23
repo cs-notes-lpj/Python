@@ -1,3 +1,3 @@
 - [homePage](/)
-- [operators](/docs/1_operators.md)
-- [variables](/docs/2_variables.md)
+- [operators](/docs/1-operators.md)
+- [variables](/docs/2-variables.md)
